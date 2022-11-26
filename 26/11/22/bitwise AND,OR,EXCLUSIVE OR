@@ -1,0 +1,5 @@
+m=24
+n=45
+print(m&n)
+print(m|n)
+print(m^n)
